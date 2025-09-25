@@ -1,8 +1,10 @@
 # Unlocking Clinical Potential: Beyond Single-to-Tri-Phase CT with Dynamic Fusion for Precision Liver Tumor Segmentation  
 
 ## ✨ Overview:
-| ![](https://github.com/jylEcho/ICLR26_unlocking_clinical_potential/blob/main/image/first_fig_01.png) |
-|:--:|
+
+<center>
+  <img src="https://github.com/jylEcho/ICLR26_unlocking_clinical_potential/blob/main/image/first_fig_01.png" width="800" alt="">
+</center>
 
 ## Datasets  
 | Dataset | Phases       | Samples | Annotation Tool | Registration Method |  
@@ -30,9 +32,10 @@ The complementary nature of these phases presents a valuable opportunity to impr
 Treating each phase equally during fusion, failing to account for their clinical significance and complementary properties. This results in suboptimal performance, especially in scenarios with blurred lesion boundaries or small tumors.
 
 ## ✨ Framework:
-| ![](https://github.com/jylEcho/ICLR26_unlocking_clinical_potential/blob/main/image/V8.0_01.png) |
-|:--:|
 
+<center>
+  <img src="https://github.com/jylEcho/ICLR26_unlocking_clinical_potential/blob/main/image/V8.0_01.png" width="800" alt="">
+</center>
 
 ## We achieved:
 
