@@ -1,8 +1,5 @@
 # Unlocking Clinical Potential: Beyond Single-to-Tri-Phase CT with Dynamic Fusion for Precision Liver Tumor Segmentation  
 
-### Pre-trained Weights  
-The weights of the pre-trained MADF-Net in 1P、2P、3P comparative analysis could be downloaded [Here](https://drive.google.com/drive/folders/1FSgOOqEkdjfBTvYudSf9NAxIwG3CxWxW?usp=drive_link)  
-
 ## Datasets  
 | Dataset | Phases       | Samples | Annotation Tool | Registration Method |  
 |---------|--------------|---------|-----------------|---------------------|  
