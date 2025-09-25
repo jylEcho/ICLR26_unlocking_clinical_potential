@@ -7,7 +7,7 @@
 ## Datasets  
 | Dataset | Phases       | Samples | Annotation Tool | Registration Method |  
 |---------|--------------|---------|-----------------|---------------------|  
-| MPLL    | Multi (ART/PV/DL) | 141   | ITK-SNAP        | B-spline            |  
+| MPLL    | Multi (ART/PV/DL) | 952,601 slices   | ITK-SNAP        | B-spline            |  
 
 <img src="https://github.com/jylEcho/ICLR26_unlocking_clinical_potential/blob/main/image/Dataset_01.png" width="500">
 
