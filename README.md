@@ -5,7 +5,7 @@
 |---------|--------------|---------|-----------------|---------------------|  
 | MPLL    | Multi (ART/PV/DL) | 141   | ITK-SNAP        | B-spline            |  
 
-<img src="https://github.com/jylEcho/test/blob/main/image/Dataset.png?raw=true" width="500">
+<img src="https://github.com/jylEcho/ICLR26_unlocking_clinical_potential/blob/main/image/Dataset.png" width="500">
 
 ## Contrast-Enhanced CT (CECT)： 
 
